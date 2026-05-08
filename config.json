@@ -1,0 +1,19 @@
+{
+  "rtsp_url": 0,
+  "output_folder": "resultados",
+  "save_json": true,
+  "save_csv": true,
+  "display_video": true,
+  "confidence_threshold": 0.5,
+  "fps_limit": 15,
+  "frame_width": 640,
+  "frame_height": 480,
+  "enable_face_detection": true,
+  "enable_emotion_detection": true,
+  "enable_age_gender": true,
+  "save_images": false,
+  "enable_threading": true,
+  "quick_detection_sensitivity": 0.6,
+  "button_width": 200,
+  "button_height": 50
+}
